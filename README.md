@@ -5,4 +5,4 @@ Superstore Sales & Profit Analysis | Python, Pandas, Matplotlib, Seaborn
 * Developed data visualizations to identify high-performing regions, profitable product categories, and loss-making sub-categories.
 * Generated actionable business recommendations to support data-driven pricing, discount, and sales strategies.
 
-GitHub: []
+GitHub: [https://github.com/sushma-trivedi/Superstore-Sales-Profit-Analysis-Python]
